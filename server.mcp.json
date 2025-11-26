@@ -1,1 +1,6 @@
-
+{
+  "name": "Example Filesystem MCP",
+  "description": "MCP de exemplo para testes do NavriAIGP discovery.",
+  "version": "0.1.0",
+  "commands": []
+}
